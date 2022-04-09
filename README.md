@@ -1,3 +1,2 @@
 # FAQ-AccordionCard
-
-https://github.com/KevD27/FAQ-AccordionCard/blob/main/design/desktop-design.jpg
+![desktop-design](https://user-images.githubusercontent.com/91759030/162567861-adc3faf0-8151-469c-9d74-1299ddca8168.jpg)
